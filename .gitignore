@@ -1,0 +1,4 @@
+*.zip
+Crema/
+.ipynb_checkpoints/
+.DS_Store
